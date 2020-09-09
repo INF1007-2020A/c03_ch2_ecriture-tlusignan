@@ -10,7 +10,7 @@ def majuscule(mot):
         # majlettre = chr(ordlettre)
 
         resultat += chr(ord(lettre)-32)
-    return mot
+    return resultat
 
 
 if __name__ == '__main__':
