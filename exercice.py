@@ -6,7 +6,7 @@ def majuscule(mot):
     for lettre in mot:
         # TODO completer la fonction ici
         ordlettre = ord(lettre)
-        ordlettre = ordlettre-32
+        ordlettre -= 32
         majlettre = chr(ordlettre)
 
         resultat += majlettre
