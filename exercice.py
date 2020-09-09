@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     resultat = ''
-    lettre = mot
     for lettre in mot:
         # TODO completer la fonction ici
         ordlettre = ord(lettre)
