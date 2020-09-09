@@ -9,7 +9,7 @@ def majuscule(mot):
         ordlettre -= 32
         majlettre = chr(ordlettre)
 
-        resultat += majlettre
+        resultat += chr(ord(majlettre
     return mot
 
 
