@@ -5,7 +5,7 @@ def majuscule(mot):
     for lettre in mot:
         # TODO completer la fonction ici
         ordlettre = ord(lettre)
-        maj
+        majlettre = ordlettre+
 
         resultat += lettre
     return mot
